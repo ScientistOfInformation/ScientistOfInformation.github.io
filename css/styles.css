@@ -1,11 +1,60 @@
-h1 {
-    color:darkolivegreen;
-    text-align: center;
-}
-
 a {
     padding: 5px;
 }
 
+hr {
+    border: dotted gray;
+    border-bottom: none;
+    margin:80px auto;
+    width: 20%;
+}
+
+.top-container {
+    background-color: lightsteelblue;
+    text-align: center;
+}
+
+.middle-container {
+    background-color: lightsteelblue;
+}
+
+.bottom-container {
+    background-color: lightsteelblue;
+}
+
+.sciofinfograph-img {
+    border-radius: 8px;
+    margin: 30px;
+    width:75%;
+}
+
+.education {
+    margin: 5rem auto;
+}
+
+.education-img {
+    border-radius: 8px;
+    float: right;
+    width: 12%;
+    margin: 10px;
+}
+
+.work-img {
+    border-radius: 8px;
+    float: left;
+    width: 12%;
+    margin: 10px;
+}
+
+.hobbies-img {
+    border-radius: 8px;
+    float: right;
+    width: 12%;
+    margin: 10px;
+}
+
+.copyright {
+    font-size: x-small;
+}
 
 
